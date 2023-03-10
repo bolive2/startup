@@ -6,3 +6,6 @@ CSS needs to link with the corresponding parts in the html file. You can create 
 CSS needs to link with the corresponding parts in the html file. 
 You can create a class in css that you can repeatedly use for parts of the html file. 
 There is a lot that you can do with CSS so it is important to keep learning and looking things up as I go along.
+JavaScript objects have '=' signs
+JSON uses "" not '
+CSS box model outside in = margin, border, padding, content
