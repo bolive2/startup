@@ -22,12 +22,18 @@
       <section>
         <h2>Create Poll</h2>
         <div>
-          <input type="text" id="name" placeholder="Insert Question" />
+          <input type="text" id="question" placeholder="Insert Question" />
+          <button class="btn btn-primary" onclick="createQ()">Create</button>
         </div>
       </section>
       <section>
         <h2>Simon project</h2>
-        <p>
+        <p id="main"></p>
+        <p> 
+          <script>
+            var question = 'test'
+            document.getElementById("main").innerHTML = question;
+          </script>
           This is where the description and link to my implementation of the
           Simon will go.
         </p>
