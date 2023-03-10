@@ -11,7 +11,7 @@ function storeAndDisplay() {
 
 // Check if there is a stored input and display it
 if (localStorage.getItem("input")) {
-    document.getElementById("output").innerHTML = "Input: " + localStorage.getItem("input");
+    document.getElementById("output").innerHTML = "Question: " + localStorage.getItem("input");
 }
 
 
