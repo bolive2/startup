@@ -9,3 +9,5 @@ There is a lot that you can do with CSS so it is important to keep learning and 
 JavaScript objects have '=' signs
 JSON uses "" not '
 CSS box model outside in = margin, border, padding, content
+
+The trick is to just think in Java and then find a way to make it output into the html file. 
