@@ -9,3 +9,12 @@ There is a lot that you can do with CSS so it is important to keep learning and 
 JavaScript objects have '=' signs
 JSON uses "" not '
 CSS box model outside in = margin, border, padding, content
+
+The trick is to just think in Java and then find a way to make it output into the html file. 
+
+## Simon Services Notes:
+The end points allow you to get certain points faster
+Make sure to update the .gitignore file to ignore node_modules
+Also can't forget to configure the directory for Nodes
+Using curl can either post or receive data from or to the source
+
