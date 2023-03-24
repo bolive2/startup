@@ -18,3 +18,8 @@ Make sure to update the .gitignore file to ignore node_modules
 Also can't forget to configure the directory for Nodes
 Using curl can either post or receive data from or to the source
 
+## Database Notes:
+Never put your password in public domain
+Can store things even after reset apps
+can view things from the mongo console
+can store and find values from javascript
