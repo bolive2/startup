@@ -23,3 +23,12 @@ Never put your password in public domain
 Can store things even after reset apps
 can view things from the mongo console
 can store and find values from javascript
+
+## Login Notes:
+have to find balance of accessiblity and security
+
+End points are key of seeing authorization
+
+Use the encryption to store passwords. This way even if people get into database, they still don't see passwords
+
+There are different sources to store passwords
