@@ -32,3 +32,11 @@ End points are key of seeing authorization
 Use the encryption to store passwords. This way even if people get into database, they still don't see passwords
 
 There are different sources to store passwords
+
+## Websocket Notes:
+is a format for having a chat
+debug in chrome and VS studio
+to debug in chrome hit F12
+Java provides the interaction with the DOM
+normally time out but can set it to not close
+
