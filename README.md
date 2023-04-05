@@ -40,3 +40,11 @@ to debug in chrome hit F12
 Java provides the interaction with the DOM
 normally time out but can set it to not close
 
+## Startup services Notes:
+Make sure you the env variables are correct
+know where to put the connection for the link to the js file
+you can declare a class in the js file.
+use the database.js file to make functions to for adding to the database
+use those functions when adding through the api
+
+
