@@ -47,4 +47,23 @@ you can declare a class in the js file.
 use the database.js file to make functions to for adding to the database
 use those functions when adding through the api
 
+##Final
+cookies allow server to store data on the client
+Language is not a standard HTTP header; Host, Content-type, cookie are
+you can use fetch in front and back end code
+JSX can't combine all CSS, HTML, and Javascript; it can inject your html into your Javascript, to componentize your html, and allow for composability of your html
+Linux deamon can't fork other processes; it can start when your computer is rebooted, executes independent of a user, and pm2 is an example of a deamon
+React.useEffect(() -> updateX(D), [v]);
+this runs updateX everytime v is changed and intially. 
+empty bracket is when first creates bracket, no bracket always call when anything changes
+Port 80 is reserved for HTTP
+SSH 22
+HTTPS 443
+HTTP status codes in 300 range are for content redirects or caching
+client error are 400 and server errors are 500 and 100 information
+"NPM install ws" does not add template code for websockets to your javascript
+it does add a dependency to your package.json file, add the websocket source code to the node_modules directory, and locks the version of the websocket package for your application
+
+
+
 
