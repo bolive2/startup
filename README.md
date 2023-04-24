@@ -47,7 +47,7 @@ you can declare a class in the js file.
 use the database.js file to make functions to for adding to the database
 use those functions when adding through the api
 
-##Final
+## Final
 cookies allow server to store data on the client
 Language is not a standard HTTP header; Host, Content-type, cookie are
 you can use fetch in front and back end code
